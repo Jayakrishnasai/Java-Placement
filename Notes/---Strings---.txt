@@ -1,0 +1,31 @@
+---Strings---
+
+string_type variable_name = "HELLO";
+e.g.,: String a = "HELLO";
+
+Methods:
+ 1. .replace()
+ 2. .trim()
+ 3. .length()
+ 4. .split(String regex)
+ 5. .indexOf()
+ 6. .contains()   ---> Syantax: Boolean contains(Char Sequence)
+ 7. .substring()
+ 8. .toUpperCase()
+ 9. .toLowerCase()
+10. .startsWith()
+11. .endsWith()
+12. .valueOf()
+13. .charAt()
+
+Questions:
+1. Given a string, write a program to reverse it and print the reversed string
+2. Write a program to count the number of vowels (a, e, i, o, u) in a given string and print the count.
+3. Given a string, determine if it is a palindrome (reads the same forward and backward) and print the result.
+4. Write a program to find and print the most frequent character in a given string and its frequency. 
+5. Given a string and a substring, remove all occurrences of the substring from the string and print the result
+6. Given a sentence, find and print the longest word
+7. Write a program to count the number of words in a given sentence and print the count.
+8. Given two strings, find and print the common characters between them.
+9. Given a string with spaces, convert it to Camel Case format and print the result.
+10. Write a program to count and print the occurrence

@@ -1,0 +1,17 @@
+Constructor Demo: 
+
+public constructorDemo() {
+  this.name = "Kerito"l
+  this.age = 20;
+  System.out.println(" Default Constructor Called Successful ");
+  }
+  public constructorDemo (String name, int age) {
+     this.name = name;
+     this.age = age;
+     System.out.println("Parameterized Constructor Called Successful ");
+    }
+     public ConstructorDemo (ConstructorDemo demo) {
+       this.name = demo.name;
+       this.age = demo.age;
+       System.out.println("Copy Constructor Called Successful ");
+     }

@@ -1,0 +1,13 @@
+Rotation of Array
+
+Simple logic: 
+for(int i = 0; i < arr.length; i++)
+(arr[(i + n) % arr.length] + " "); 
+
+arr : is Array of some length
+arr.length : To find Size of Array
+
+According to Looping Statement "for(int i = 0; i < arr.length; i++)"
+i = 0 < arr.length [7]  ( 0 < 7) ---> true --->Move Inside loop
+arr[(i + n)] = 0 + Targeted Index = Targeted index
+arr.length = e.g., 
