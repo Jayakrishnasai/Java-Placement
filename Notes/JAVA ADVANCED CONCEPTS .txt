@@ -1,0 +1,103 @@
+JAVA ADVANCED CONCEPTS :
+
+Arrays
+1.	Sum of Array Elements: Write a program to find the sum of all elements in an array.
+2.	Average of Array Elements: Calculate the average of elements in an array.
+3.	 Find Maximum Element: Find the maximum element in an array.
+4.	Find Minimum Element: Find the minimum element in an array.
+5.	Count Occurrences of Element: Count the occurrences of a specific element in an array.
+6.	Reverse Array: Reverse the elements of an array.
+7.	Sort Array Ascending: Sort an array in ascending order.
+8.	Sort Array Descending: Sort an array in descending order.
+G. Find Second Largest Element: Find the second largest element in an array.
+10.	Find Second Smallest Element: Find the second smallest element in an array.
+11.	Merge Two Arrays: Merge two arrays into one.
+12.	Find Union of Two Arrays: Find the union of two arrays.
+13.	Find Intersection of Two Arrays: Find the intersection of two arrays.
+14.	Find Missing Number: Find the missing number in an array of 1 to N.
+15.	Find Duplicate Element: Find the duplicate element in an array.
+16.	Find Common Elements in Three Arrays: Find common elements in three arrays.
+17.	Left Rotate Array: Left rotate an array by a given number of positions.
+18.	Right Rotate Array: Right rotate an array by a given number of positions. 1G. Check for Palindrome Array: Check if an array can be rearranged to form a
+palindrome.
+20.	Frequency of Elements: Find the frequency of each element in an array.
+ 21.	Split Array and Add Second Part to First: Split an array into two parts and add the second part to the beginning.
+22.	Cyclically Rotate Array: Cyclically rotate an array by one position.
+23.	 Find Largest Sum Contiguous Subarray: Find the sum of the largest sum contiguous subarray.
+24.	Find Leaders in Array: Find all elements in an array that are greater than all elements to their right.
+25.	Find Median of Two Sorted Arrays: Find the median of two sorted arrays.
+26.	Count Pairs with Given Sum: Count the number of pairs with a given sum.
+27.	Find Elements with Given Difference: Find all pairs in an array with a given difference.
+28.	Find Equilibrium Index: Find the index where the sum of the elements on the left is equal to the sum of the elements on the right.
+2G. Maximum Product Subarray: Find the maximum product of a subarray.
+30.	Find Triplets with Zero Sum: Find all triplets in an array that sum to zero.
+31.	Find All Subarrays with Given Sum: Find all subarrays that sum to a given value.
+32.	Find Subarray with Maximum Sum: Find the subarray with the maximum sum.
+33.	Rearrange Positive and Negative Numbers: Rearrange an array so that positive and negative numbers are alternated.
+34.	Separate Even and Odd Numbers: Separate even and odd numbers in an array.
+35.	Find First Repeating Element: Find the first repeating element in an array.
+36.	Find First Non-Repeating Element: Find the first non-repeating element in an array.
+37.	Find Pairs with Sum Divisible by K: Find all pairs in an array whose sum is divisible by K.
+38.	Move Zeros to End: Move all zeros in an array to the end while maintaining the order of non-zero elements.
+ 3G. Find Longest Consecutive Subsequence: Find the length of the longest consecutive elements sequence.
+40.	Find Maximum Difference: Find the maximum difference between two elements such that the larger element appears after the smaller one.
+41.	 Find Smallest Missing Positive Integer: Find the smallest missing positive integer in an array.
+42.	Find Largest Subarray with Equal Number of 0s and 1s: Find the largest subarray with equal numbers of 0s and 1s.
+43.	Count Inversions: Count the number of inversions in an array.
+44.	Find Kth Smallest Element: Find the Kth smallest element in an array.
+45.	Find Kth Largest Element: Find the Kth largest element in an array.
+46.	Find Subarray with Given Product: Find the subarray with a given product.
+47.	Find Subarray with Given XOR: Find all subarrays whose XOR is equal to a given number.
+48.	Find Pythagorean Triplets: Find all Pythagorean triplets in an array.
+4G. Find Longest Bitonic Subarray: Find the longest bitonic subarray (increasing then decreasing).
+50.	Check if Array is Sorted: Check if an array is sorted. Functions (Methods)
+51.	Swap Two Numbers Using a Function: Write a function to swap two numbers.
+52.	Check Prime Using Function: Write a function to check if a number is prime.
+53.	Factorial Using Recursion: Write a recursive function to find the factorial of a number.
+54.	Fibonacci Series Using Recursion: Write a recursive function to generate the Fibonacci series.
+55.	GCD Using Recursion: Write a recursive function to find the greatest common divisor (GCD) of two numbers.
+ 56.	LCM Using Function: Write a function to find the least common multiple (LCM) of two numbers.
+57.	Check Palindrome Using Function: Write a function to check if a string is a palindrome.
+58.	 Find Maximum Using Function: Write a function to find the maximum of three numbers.
+5G. Find Minimum Using Function: Write a function to find the minimum of three numbers.
+60.	Calculate Power Using Recursion: Write a recursive function to calculate the power of a number.
+61.	Sum of Digits Using Function: Write a function to calculate the sum of the digits of a number.
+62.	Reverse a String Using Function: Write a function to reverse a string.
+63.	Count Vowels Using Function: Write a function to count the number of vowels in a string.
+64.	Convert String to Uppercase: Write a function to convert a string to uppercase.
+65.	Convert String to Lowercase: Write a function to convert a string to lowercase.
+66.	Check Armstrong Number Using Function: Write a function to check if a number is an Armstrong number.
+67.	Calculate Simple Interest: Write a function to calculate simple interest.
+68.	Calculate Compound Interest: Write a function to calculate compound interest. 6G. Temperature Conversion Functions: Write functions to convert temperature
+between Celsius, Fahrenheit, and Kelvin.
+70.	Swap Case in String: Write a function to swap the case of each character in a string.
+71.	Calculate Sum of Array Using Function: Write a function to calculate the sum of elements in an array.
+72.	Calculate Average of Array Using Function: Write a function to calculate the average of elements in an array.
+ 73.	Find Median Using Function: Write a function to find the median of an array.
+74.	Sort Array Using Function: Write a function to sort an array.
+75.	 Find GCD of Array Using Function: Write a function to find the GCD of an array of numbers.
+76.	Count Primes Using Function: Write a function to count the number of prime numbers in an array.
+77.	Check Perfect Number Using Function: Write a function to check if a number is a perfect number.
+78.	Check Strong Number Using Function: Write a function to check if a number is a strong number.
+7G. Find HCF and LCM Using Function: Write a function to find the HCF and LCM of two numbers.
+80.	Count Occurrences of Character Using Function: Write a function to count the occurrences of a specific character in a string.
+81.	Find Longest Word in String Using Function: Write a function to find the longest word in a string.
+82.	Find Shortest Word in String Using Function: Write a function to find the shortest word in a string.
+83.	Reverse Words in String Using Function: Write a function to reverse the words in a string.
+84.	Remove Vowels Using Function: Write a function to remove vowels from a string.
+85.	Check Anagram Using Function: Write a function to check if two strings are anagrams.
+86.	Check Pangram Using Function: Write a function to check if a string is a pangram.
+87.	Replace Character in String Using Function: Write a function to replace a specific character in a string.
+88.	Count Words in String Using Function: Write a function to count the number of words in a string.
+ 8G. Find Substring Using Function: Write a function to find a substring in a string.
+G0. Convert Integer to String Using Function: Write a function to convert an integer to a string.
+ G1. Convert String to Integer Using Function: Write a function to convert a string to an integer.
+G2. Find ASCII Value Using Function: Write a function to find the ASCII value of a character.
+G3. Calculate Area and Perimeter Using Function: Write functions to calculate the area and perimeter of different shapes.
+G4. Check Perfect Square Using Function: Write a function to check if a number is a perfect square.
+G5. Generate Random Number Using Function: Write a function to generate a random number within a specific range.
+G6. Check Automorphic Number Using Function: Write a function to check if a number is an automorphic number.
+G7. Convert Binary to Decimal Using Function: Write a function to convert a binary number to decimal.
+G8. Convert Decimal to Binary Using Function: Write a function to convert a decimal number to binary.
+GG. Convert Decimal to Hexadecimal Using Function: Write a function to convert a decimal number to hexadecimal.
+100.	Convert Hexadecimal to Decimal Using Function: Write a function to convert a hexadecimal number

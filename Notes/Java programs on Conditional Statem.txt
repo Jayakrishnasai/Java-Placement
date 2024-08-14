@@ -1,0 +1,114 @@
+Java programs on Conditional Statements
+1.	Check Positive or Negative: Write a program to check if a number is positive, negative, or zero.
+2.	Check Even or Odd: Determine if a number is even or odd.
+3.	Find Largest Number: Find the largest of three numbers.
+4.	Check Vowel or Consonant: Check if a given character is a vowel or consonant.
+5.	Leap Year Check: Check if a year is a leap year.
+6.	Grade Calculation: Assign grades based on marks: A (90-100), B (80-89), C (70-79), D (60-69), F (below 60).
+7.	Calculate Electricity Bill: Calculate the electricity bill based on usage: flat rate for the first 100 units, and varying rates beyond that.
+8.	Menu Driven Calculator: Create a simple calculator that performs addition, subtraction, multiplication, and division based on user choice.
+9.	Day of the Week: Print the name of the day based on a number input (1 for Sunday, 2 for Monday, etc.).
+10.	Check Alphabet or Not: Check if a given character is an alphabet.
+11.	Check Uppercase or Lowercase: Check if a character is uppercase or lowercase.
+12.	Check for Divisibility: Check if a number is divisible by 5 and 11.
+13.	Check Alphabet, Digit or Special Character: Check if a character is an alphabet, digit, or special character.
+14.	Triangle Type: Determine the type of triangle (equilateral, isosceles, scalene) based on the lengths of its sides.
+15.	Eligibility for Voting: Check if a person is eligible to vote based on their age.
+16.	Quadratic Equation Roots: Find and display the roots of a quadratic equation.
+17.	Check for Valid Triangle: Check if three sides can form a valid triangle.
+18.	Check Character Case: Check if a character is uppercase, lowercase, or a digit.
+19.	Days in Month: Display the number of days in a month based on the month number and year.
+20.	Currency Denominations: Given an amount, find the number of each denomination (2000, 500, 100, etc.) required.
+Loops
+21.	Print Numbers from 1 to 100: Print all numbers from 1 to 100.
+22.	Sum of Natural Numbers: Calculate the sum of the first N natural numbers.
+ 
+
+
+23.	Factorial Calculation: Calculate the factorial of a given number.
+24.	Reverse a Number: Reverse the digits of a given number.
+25.	Sum of Digits: Calculate the sum of the digits of a number.
+26.	Palindrome Number Check: Check if a number is a palindrome.
+27.	Prime Number Check: Check if a number is prime.
+28.	Generate Multiplication Table: Print the multiplication table of a given number.
+29.	Find Armstrong Numbers: Find all Armstrong numbers within a specified range.
+30.	Fibonacci Sequence: Print the first N numbers in the Fibonacci sequence.
+31.	Sum of Even Numbers: Calculate the sum of all even numbers between 1 and 100.
+32.	Sum of Odd Numbers: Calculate the sum of all odd numbers between 1 and 100.
+33.	GCD Calculation: Calculate the greatest common divisor (GCD) of two numbers.
+34.	LCM Calculation: Calculate the least common multiple (LCM) of two numbers.
+35.	Sum of Prime Numbers: Calculate the sum of all prime numbers up to a specified number.
+36.	Print All Divisors: Print all divisors of a given number.
+37.	Perfect Number Check: Check if a number is a perfect number.
+38.	Strong Number Check: Check if a number is a strong number.
+39.	Count Digits: Count the number of digits in a number.
+40.	Print ASCII Values: Print the ASCII values of all characters from 'A' to 'Z'.
+41.	Reverse a String: Reverse a given string.
+42.	Count Vowels and Consonants: Count the number of vowels and consonants in a string.
+43.	Palindrome String Check: Check if a string is a palindrome.
+44.	Frequency of Characters: Count the frequency of each character in a string.
+ 
+
+
+45.	Find Maximum in Array: Find the maximum value in an array of integers.
+46.	Find Minimum in Array: Find the minimum value in an array of integers.
+47.	Sort Array: Sort an array of integers in ascending order.
+48.	Calculate Array Sum: Calculate the sum of all elements in an array.
+49.	Find Element in Array: Find if an element exists in an array.
+50.	Copy Array: Copy elements from one array to another.
+51.	Merge Two Arrays: Merge two arrays into one.
+52.	Find Duplicate Elements in Array: Find duplicate elements in an array.
+53.	Remove Duplicates from Array: Remove duplicate elements from an array.
+54.	Reverse an Array: Reverse the elements of an array.
+55.	Rotate Array: Rotate an array by a given number of positions.
+56.	Matrix Addition: Add two matrices.
+57.	Matrix Subtraction: Subtract one matrix from another.
+58.	Matrix Multiplication: Multiply two matrices.
+59.	Transpose of Matrix: Find the transpose of a matrix.
+60.	Symmetric Matrix Check: Check if a matrix is symmetric.
+61.	Check Identity Matrix: Check if a matrix is an identity matrix.
+62.	Diagonal Sum of Matrix: Calculate the sum of the diagonal elements of a matrix.
+63.	Print Matrix in Spiral Order: Print a matrix in spiral order.
+64.	Print Pascal's Triangle: Print Pascal's Triangle up to a given number of rows.
+65.	Calculate Power Using Loop: Calculate the power of a number using a loop.
+66.	Calculate Square Root: Calculate the square root of a number using iterative approximation.
+ 
+
+
+67.	Check for Automorphic Number: Check if a number is automorphic.
+68.	Find Nth Fibonacci Number: Find the Nth Fibonacci number.
+69.	Sum of Squares of Natural Numbers: Calculate the sum of squares of the first N natural numbers.
+70.	Sum of Cubes of Natural Numbers: Calculate the sum of cubes of the first N natural numbers.
+71.	Display Prime Numbers in Range: Display all prime numbers within a given range.
+72.	Convert Decimal to Binary: Convert a decimal number to binary.
+73.	Convert Binary to Decimal: Convert a binary number to decimal.
+74.	Find Sum of Prime Numbers in Range: Find the sum of all prime numbers within a given range.
+75.	Find Sum of Digits in String: Find the sum of all digits present in a given string.
+76.	Calculate Compound Interest Using Loop: Calculate compound interest using a loop.
+77.	Check for Neon Number: Check if a number is a neon number.
+78.	Check for Happy Number: Check if a number is a happy number.
+79.	Check for Harshad Number: Check if a number is a Harshad number.
+80.	Check for Niven Number: Check if a number is a Niven number.
+81.	Print Prime Factors: Print all prime factors of a given number.
+82.	Generate All Subsets of Array: Generate all possible subsets of an array.
+83.	Count Occurrences of Element in Array: Count the occurrences of a specific element in an array.
+84.	Bubble Sort Implementation: Implement the bubble sort algorithm.
+85.	Insertion Sort Implementation: Implement the insertion sort algorithm.
+86.	Selection Sort Implementation: Implement the selection sort algorithm.
+87.	Find Common Elements in Two Arrays: Find common elements in two arrays.
+ 
+
+
+88.	Find Union of Two Arrays: Find the union of two arrays.
+89.	Find Intersection of Two Arrays: Find the intersection of two arrays.
+90.	Frequency of Elements in Array: Find the frequency of each element in an array.
+91.	Check for Palindrome in Array: Check if an array can be rearranged into a palindrome.
+92.	Sum of Even and Odd Indexed Elements: Calculate the sum of elements at even and odd indices in an array.
+93.	Replace Negative Numbers with Zero in Array: Replace all negative numbers in an array with zero.
+94.	Find Second Largest Element in Array: Find the second largest element in an array.
+95.	Find Second Smallest Element in Array: Find the second smallest element in an array.
+96.	Find Kth Smallest Element in Array: Find the Kth smallest element in an array.
+97.	Find Kth Largest Element in Array: Find the Kth largest element in an array.
+98.	Check for Balanced Parentheses: Check if a string has balanced parentheses.
+99.	Reverse Words in String: Reverse the words in a given string.
+100.	Check for Pangram: Check if a string is a pangram (contains every letter of the alphabet at least once).

@@ -1,0 +1,110 @@
+Java Full Programs
+
+1.	Sum of Two Numbers: Write a program to take two integers as input and output their sum.
+2.	Difference of Two Numbers: Calculate the difference between two numbers.
+3.	Product of Two Numbers: Find the product of two numbers.
+4.	Division of Two Numbers: Divide two numbers and display the quotient.
+5.	Remainder Calculation: Compute the remainder of two numbers.
+6.	Average of Three Numbers: Calculate the average of three integers.
+7.	Temperature Conversion: Convert temperature from Fahrenheit to Celsius.
+8.	Area and Perimeter of Rectangle: Calculate the area and perimeter of a rectangle.
+9.	Swap Two Numbers: Swap the values of two variables using a temporary variable.
+10.	Swap Without Third Variable: Swap two numbers without using a third variable.
+11.	Check Even or Odd: Determine if a number is even or odd.
+12.	Power Calculation: Calculate the power of a number using Math.pow().
+13.	Area of Circle: Calculate the area of a circle given its radius.
+14.	Simple Interest: Write a program to calculate simple interest.
+15.	Compound Interest: Calculate compound interest over a period.
+16.	Quadratic Equation Roots: Find the roots of a quadratic equation.
+17.	Body Mass Index (BMI): Calculate BMI given weight and height.
+18.	Currency Conversion: Convert an amount from one currency to another.
+19.	Convert Time: Convert time in hours and minutes to total minutes.
+20.	Days to Years, Weeks, Days: Convert total days into years, weeks, and days.
+21.	Calculate Age: Calculate age given birthdate and current date.
+ 22.	Sum of Digits: Calculate the sum of the digits of a number.
+23.	Reverse a Number: Reverse the digits of an integer.
+24.	Count Digits: Count the number of digits in an integer.
+25.	Area and Circumference of Circle: Calculate the area and circumference of a circle.
+26.	Volume of Cylinder: Calculate the volume of a cylinder.
+27.	Temperature Conversion: Convert temperature from Celsius to Kelvin.
+28.	Character ASCII Value: Find the ASCII value of a character.
+29.	Character Case Conversion: Convert a lowercase character to uppercase and vice versa.
+30.	Integer to Binary: Convert an integer to its binary representation.
+31.	Integer to Hexadecimal: Convert an integer to its hexadecimal representation.
+32.	Hexadecimal to Decimal: Convert a hexadecimal number to its decimal equivalent.
+33.	Binary to Decimal: Convert a binary number to its decimal equivalent.
+34.	Check Leap Year: Determine if a given year is a leap year.
+35.	Calculate Distance: Calculate distance between two points in 2D space.
+36.	Factorial Calculation: Calculate the factorial of a number.
+37.	Prime Number Check: Check if a number is prime.
+38.	Find GCD: Find the greatest common divisor of two numbers.
+39.	Find LCM: Find the least common multiple of two numbers.
+40.	Check Palindrome Number: Check if a number is a palindrome.
+41.	Find All Divisors: Find all divisors of a given number.
+42.	Sum of First N Natural Numbers: Calculate the sum of the first N natural numbers.
+43.	Sum of Squares of N Natural Numbers: Calculate the sum of squares of the first N natural numbers.
+ 44.	Sum of Cubes of N Natural Numbers: Calculate the sum of cubes of the first N natural numbers.
+45.	Armstrong Number Check: Check if a number is an Armstrong number.
+46.	Perfect Number Check: Check if a number is a perfect number.
+47.	Strong Number Check: Check if a number is a strong number.
+48.	Amicable Numbers Check: Check if two numbers are amicable.
+49.	HCF and LCM Using Euclidean Algorithm: Compute HCF and LCM using the Euclidean algorithm.
+50.	Check Automorphic Number: Check if a number is automorphic.
+51.	Calculate Fibonacci Sequence: Generate the first N numbers of the Fibonacci sequence.
+52.	Generate Prime Numbers: Generate prime numbers up to a given number.
+53.	Check Happy Number: Check if a number is a happy number.
+54.	Check Harshad Number: Check if a number is a Harshad number.
+55.	Check Neon Number: Check if a number is a neon number.
+56.	Find Sum of Proper Divisors: Find the sum of proper divisors of a number.
+57.	Calculate Compound Interest: Calculate compound interest.
+58.	Check for Perfect Square: Check if a number is a perfect square.
+59.	Check for Prime Pair: Check if two numbers form a prime pair.
+60.	Check for Twin Primes: Check if two numbers are twin primes.
+61.	Calculate Sum of Primes in Range: Calculate the sum of all prime numbers in a given range.
+62.	Calculate Product of Digits: Calculate the product of the digits of a number.
+63.	Check for Palindrome String: Check if a string is a palindrome.
+ 
+
+
+64.	Calculate Sum of Odd Numbers: Calculate the sum of odd numbers up to a given number.
+65.	Calculate Sum of Even Numbers: Calculate the sum of even numbers up to a given number.
+66.	Convert Decimal to Binary: Convert a decimal number to binary.
+67.	Convert Binary to Decimal: Convert a binary number to decimal.
+68.	Convert Decimal to Octal: Convert a decimal number to octal.
+69.	Convert Octal to Decimal: Convert an octal number to decimal.
+70.	Find Largest of Three Numbers: Find the largest of three given numbers.
+71.	Find Smallest of Three Numbers: Find the smallest of three given numbers.
+72.	Check for Armstrong Numbers in Range: Find all Armstrong numbers within a given range.
+73.	Check for Prime Numbers in Range: Find all prime numbers within a given range.
+74.	Check for Perfect Numbers in Range: Find all perfect numbers within a given range.
+75.	Find Factors of a Number: Find all factors of a given number.
+76.	Calculate Sum of Natural Numbers: Calculate the sum of natural numbers up to N.
+77.	Calculate Sum of Prime Numbers: Calculate the sum of prime numbers up to N.
+78.	Calculate Sum of Fibonacci Sequence: Calculate the sum of the first N numbers of the Fibonacci sequence.
+79.	Calculate Simple Interest: Calculate simple interest given principal, rate, and time.
+80.	Check for Palindrome String: Check if a given string is a palindrome.
+81.	Reverse a String: Reverse a given string.
+82.	Count Vowels in a String: Count the number of vowels in a given string.
+83.	Count Consonants in a String: Count the number of consonants in a given string.
+84.	Count Words in a String: Count the number of words in a given string.
+ 
+
+
+85.	Replace Vowels in a String: Replace all vowels in a string with a specified character.
+86.	Find Longest Word in String: Find the longest word in a given string.
+87.	Find Shortest Word in String: Find the shortest word in a given string.
+88.	Convert String to Uppercase: Convert all characters in a string to uppercase.
+89.	Convert String to Lowercase: Convert all characters in a string to lowercase.
+90.	Count Uppercase Letters in String: Count the number of uppercase letters in a string.
+91.	Count Lowercase Letters in String: Count the number of lowercase letters in a string.
+92.	Check for Substring in String: Check if a given substring is present in a string.
+93.	Concatenate Two Strings: Concatenate two given strings.
+94.	Compare Two Strings: Compare two strings lexicographically.
+95.	Convert Integer to String: Convert an integer to a string.
+96.	Convert String to Integer: Convert a string to an integer.
+97.	Find ASCII Value of Character: Find the ASCII value of a given character.
+98.	Convert String to Character Array: Convert a string to a character array.
+99.	Remove Whitespace from String: Remove all whitespace from a string.
+100.	Reverse Words in String: Reverse the words in a given string while preserving the word order.
+
+
